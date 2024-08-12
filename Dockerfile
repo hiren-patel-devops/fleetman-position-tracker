@@ -1,4 +1,4 @@
-FROM openjdk:8u131-jre
+FROM openjdk:8u342-jre
 
 MAINTAINER Richard Chesterwood "contact@virtualpairprogrammers.com"
 
